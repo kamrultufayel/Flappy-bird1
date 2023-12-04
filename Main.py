@@ -31,7 +31,7 @@ if __name__ == "__main__":
         pygame.image.load(".png").convert_alpha(),
         pygame.image.load(".png").convert_alpha(),
     )
-
+kddk
 
 
 
