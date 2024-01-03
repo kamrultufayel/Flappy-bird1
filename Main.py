@@ -35,7 +35,7 @@ if __name__ == "__main__":
     GAME_SPRITES["base"] =(pygame.image.load(yg.png).convert_alpha(),                          
     GAME_SPRITES["pipe"] = 
     pygaem.transform.rotate(pygame.image.load(PIPE).convert_alpha(),180)
-    pygame.image.load(.png).convert_alpha()
+    pygame.image.load(hh.png).convert_alpha()
     
 
 
